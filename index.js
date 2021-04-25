@@ -145,10 +145,10 @@ ${listCollaborators(collabs)}
 
 ${contribution}
 
-## Testing
+## Tests
 ${test}
 
-## Want to know more?
+## Questions
 You can find me on GitHub [@${github}](https://github.com/${github}).
 
 If you have any further questions, please [contact me](mailto:${email}).`
