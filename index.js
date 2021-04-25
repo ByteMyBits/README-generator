@@ -140,7 +140,7 @@ This project is covered under ${license}.
 
 Click on the badge at the top of this README to learn more.
 
-## Contributors
+## Contributing
 ${listCollaborators(collabs)}
 
 ${contribution}
